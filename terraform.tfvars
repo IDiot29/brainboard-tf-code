@@ -1,0 +1,5 @@
+# Brainboard auto-generated file.
+
+# All variables as it would be defined in the .tfvars file.
+
+public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCFqAiUuLRe1jonslN0ACY3e8rxVfMJmVLoBTg6AHwmHbjzXvIgIWgdQfj+clSAsmSdB5DEor1yipAFsUZenCBJYoFHMjXWCGnzoLat/wCFndpHMX2kMrmlYlnRjHDHrYf8ZZ2KdixKlA3Bt1XhSS+3JSi0FN5809c/bY2dMN0VR2dwmHqy5QRSeY7uho4MRQpHV5TtuH6RQMrwIGdueSH9WVoO9ze2NpN6majGcT36fUxrDrNO9zcEaPAM/brSFpdp67W3SvGyFx6gDRUKR8DxIjZorREtCxgEpMtJCfC1f+Mg1V4TSRTyk1zp48Lok/hTE2+jAp/MgK8LNQs9XWZl"
